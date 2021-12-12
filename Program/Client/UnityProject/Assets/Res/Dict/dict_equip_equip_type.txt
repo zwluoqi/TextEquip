@@ -1,0 +1,12 @@
+classId	id	typeName	extraEntrys
+0	0	武器	atk|11|0.3&&def|8|0.2&&hp_max|20|2&&hp_max_percent|0.11|0.11&&atk_percent|0.11|0.11&&def_percent|0.11|0.12&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|0.08|0.4&&
+1	1	衣服	atk|11|0.3&&def|8|0.2&&hp_max|20|2&&hp_max_percent|0.11|0.11&&atk_percent|&&def_percent|0.11|0.12&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+2	2	项链	atk|11|0.3&&def|8|0.2&&hp_max|20|2&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|0.08|0.4&&
+3	3	戒指	atk|11|0.3&&def|8|0.2&&hp_max|20|2&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+4	4	手镯	
+5	5	帽子	
+6	6	坐骑	
+7	7	翅膀	
+8	8	法宝	
+9	9	法宝配件1	
+10	10	法宝配件2	

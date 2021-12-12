@@ -1,0 +1,31 @@
+id	name	desc	open_lev	open_vip_lev	open_tasks	action_type	action_params	sub_fub_btn	fun_page
+1			999	999		open_ui			
+2			999	999		battle_copy			
+3			999	999		open_main_sub_ui			
+4			999	999		battle_chapter			
+24	历练	仙途漫漫，去不同的历练场景磨炼自己的实力吧	30	0		open_ui	ChapterLayerPage&&openType=0	MainPage/SubPage/MainBattlePublicSubPage/PublicBattle/TopButton/Grid/MijingSub	MainPage
+5	铜钱试炼	挑战铜钱试炼，可以获得大量铜钱，是否前往？	30	0		open_ui	ChapterLayerPage&&openType=0	MijingBattlePage/back/SV/Viewport/RawImage/ShilianCopy	MijingBattlePage
+6	灵石试炼	挑战灵石试炼，可以获得大量灵石，是否前往？	35	0		open_ui	ChapterLayerPage&&openType=1		
+7	经验试炼	挑战经验试炼，可以获得大量经验，是否前往？	40	0		open_ui	ChapterLayerPage&&openType=2		
+8	花卉试炼	挑战花卉试炼，可以获得大量花卉，是否前往？	45	0		open_ui	ChapterLayerPage&&openType=3		
+9	宝石试炼	挑战宝石试炼，可以获得大量宝石，是否前往？	50	0		open_ui	ChapterLayerPage&&openType=4		
+10	沼泽boss	挑战沼泽boss,可以获得蓝色武器或制作书等	42	0		open_ui	ChapterTianYuanPage	MijingBattlePage/back/SV/Viewport/RawImage/TianYuanCopy	MijingBattlePage
+11	邪谷boss	挑战邪谷boss,可以获得蓝色武器或制作书等	48	0		open_ui	ChapterTianYuanPage		
+12	凤凰	挑战凤凰,可以获得紫色武器或制作书等	60	0		open_ui	ChapterTianYuanPage		
+13	白虎	挑战白虎,可以获得制作书等	68	0		open_ui	ChapterTianYuanPage		
+14	逝去燕王	挑战逝去燕王,可以获得燕王套装等	75	0		open_ui	ChapterTianYuanPage		
+15	冰谷之主	挑战冰谷之主,可以获得紫色武器或制作书等	80	0		open_ui	ChapterTianYuanPage		
+16	血海	挑战血海,可以获得橙色武器或制作书等	90	0		open_ui	ChapterTianYuanPage		
+17	竞技场	去往竞技场挑战更强大的玩家，获取丰厚奖励，是否前往？	22	0		open_ui	PvpPage	MijingBattlePage/back/SV/Viewport/RawImage/PVP	MijingBattlePage
+18	秘境遗迹	去往秘境挑战，可以获得丰厚的修为、阅历、名声、文采、练气、法宝等	60	0		open_ui	ChapterPataDiffPage	MijingBattlePage/back/SV/Viewport/RawImage/PataDiffCopy	MijingBattlePage
+19	世界首领	去往世界首领，挑战各类首领，获得高级装备	47	0		open_ui	WorldBossPage	MijingBattlePage/back/SV/Viewport/RawImage/WorldBoss	MijingBattlePage
+20	天机之争	去往天机之争，不断挑战更强大对手，获得奇珍异宝	52	0		open_ui	TianjiBossPage	MijingBattlePage/back/SV/Viewport/RawImage/TianjiBoss	MijingBattlePage
+21	虚空幻境	去往虚空幻境，与不同次元的道友共同抵抗入侵的敌人	62	0		open_ui	KuafuBossPage	MijingBattlePage/back/SV/Viewport/RawImage/KuafuBoss	MijingBattlePage
+22	组队	去往组队秘境，获得伙伴混沌结晶	65	0		open_ui	ChapterTeamCopyPage	MainPage/SubPage/MainBattlePublicSubPage/PublicBattle/TopButton/Grid/teamsub	MainPage
+23	仙缘	修仙怎么少的了红颜的相伴呢，俗话说得好，家有仙妻，修行倍增，快去看看你的后宫佳丽吧	39	0		open_main_sub_ui	ShowHouGongSub	MainPage/Bottom/BottomButton/Grid/HouGong	MainPage
+25	洞府	你能够开辟洞府啦，在洞府中，打坐、修行、聚灵，又是一片天地	13	0		open_main_sub_ui	ShowDongFuSub	MainPage/Bottom/BottomButton/Grid/Dongfu	MainPage
+26	门派	经过一段时间的修仙，你决定去往各大山门看看	28	0		open_ui	MenPaiJiYuanPage	MainPage/Bottom/BottomButton/Grid/Menpai	MainPage
+27	组织	经过一段时间的修仙，你决定寻找通道中人组织势力	150	0		open_ui	MenPaiPage	MainPage/Bottom/BottomButton/Grid/Gonghui	MainPage
+28	外出	经过一段时间的修仙，你决定寻找通道中人组织势力	150	0		open_ui	MenPaiPage	MainPage/SubPage/MainBattlePublicSubPage/PublicBattle/TopButton/Out	MainPage
+29	仙友	有一群人，称为仙友，他们志同道合,你可以与他们结对探险	26	0		open_ui	FriendPage	MainPage/SubPage/MainBattlePublicSubPage/friend	MainPage
+30	神炉	有些装备看来已经破烂不堪了，只能融炼成练气，以供锻造更强大的装备	36	0		open_ui	CostItemPage	MainPage/SubPage/MainBattlePublicSubPage/TopFuns/topbutto/Grid/CostEquip (1)	MainPage

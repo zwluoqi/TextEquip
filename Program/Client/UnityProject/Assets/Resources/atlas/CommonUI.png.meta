@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: d7b67abcbdb3040998807cbb89f36be5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zhujiemian_img_mubiao_star_01
+  - first:
+      213: 21300002
+    second: zhujiemian_img_mubiao_star_02
+  - first:
+      213: 21300004
+    second: Icon_bg_Weapon
+  - first:
+      213: 21300006
+    second: Icon_bg_Clothes
+  - first:
+      213: 21300008
+    second: Icon_bg_Hat
+  - first:
+      213: 21300010
+    second: Icon_bg_Ring
+  - first:
+      213: 21300012
+    second: Icon_bg_Shoes
+  - first:
+      213: 21300014
+    second: Icon_bg_Amulet
+  - first:
+      213: 21300016
+    second: sidifadong_img_yigoumai2
+  - first:
+      213: 21300018
+    second: ruby_sig
+  - first:
+      213: 21300020
+    second: hengtiao1
+  - first:
+      213: 21300022
+    second: hengtiao2
+  - first:
+      213: 21300024
+    second: hengtiao3
+  - first:
+      213: 21300026
+    second: UI_City_Special_14
+  - first:
+      213: 21300028
+    second: card_dead_kuloutou
+  - first:
+      213: 21300030
+    second: UI_City_Back_13
+  - first:
+      213: 21300032
+    second: UI_City_Public_129
+  - first:
+      213: 21300034
+    second: UI_City_Public_107
+  - first:
+      213: 21300036
+    second: UI_City_Public_131
+  - first:
+      213: 21300038
+    second: UI_Battle_Public_46
+  - first:
+      213: 21300040
+    second: UI_Battle_Public_47
+  - first:
+      213: 21300042
+    second: UI_City_Public_99
+  - first:
+      213: 21300044
+    second: UI_City_Public_108
+  - first:
+      213: 21300046
+    second: UI_City_Public_111
+  - first:
+      213: 21300048
+    second: UI_City_Back_1
+  - first:
+      213: 21300050
+    second: UI_City_Public_88
+  - first:
+      213: 21300052
+    second: UI_City_Public_103
+  - first:
+      213: 21300054
+    second: UI_City_Public_78
+  - first:
+      213: 21300056
+    second: UI_City_Public_80
+  - first:
+      213: 21300058
+    second: UI_City_Public_73
+  - first:
+      213: 21300060
+    second: UI_City_Public_104
+  - first:
+      213: 21300062
+    second: UI_City_Public_105
+  - first:
+      213: 21300064
+    second: UI_City_Special_0
+  - first:
+      213: 21300066
+    second: UI_City_Public_135
+  - first:
+      213: 21300068
+    second: UI_City_Public_65
+  - first:
+      213: 21300070
+    second: UI_City_Public_138
+  - first:
+      213: 21300072
+    second: UI_Battle_Public_39
+  - first:
+      213: 21300074
+    second: UI_Battle_Public_52
+  - first:
+      213: 21300076
+    second: UI_City_Public_44
+  - first:
+      213: 21300078
+    second: UI_Battle_Public_1
+  - first:
+      213: 21300080
+    second: UI_City_Public_98
+  - first:
+      213: 21300082
+    second: UI_City_Public_4
+  - first:
+      213: 21300084
+    second: UI_City_Public_27
+  - first:
+      213: 21300086
+    second: UI_Battle_Public_2
+  - first:
+      213: 21300088
+    second: UI_City_Public_127
+  - first:
+      213: 21300090
+    second: UI_City_Public_128
+  - first:
+      213: 21300092
+    second: UI_City_Public_143
+  - first:
+      213: 21300094
+    second: UI_City_Public_142
+  - first:
+      213: 21300096
+    second: UI_City_Public_144
+  - first:
+      213: 21300098
+    second: UI_City_Public_101
+  - first:
+      213: 21300100
+    second: UI_City_Public_77
+  - first:
+      213: 21300102
+    second: UI_City_Public_47
+  - first:
+      213: 21300104
+    second: UI_City_Public_26
+  - first:
+      213: 21300106
+    second: UI_City_Public_97
+  - first:
+      213: 21300108
+    second: UI_Battle_Public_14
+  - first:
+      213: 21300110
+    second: UI_City_Public_37
+  - first:
+      213: 21300112
+    second: UI_City_Public_5
+  - first:
+      213: 21300114
+    second: qq
+  - first:
+      213: 21300116
+    second: zhanxing
+  - first:
+      213: 21300118
+    second: beibao
+  - first:
+      213: 21300120
+    second: jingjie
+  - first:
+      213: 21300122
+    second: xianyuan
+  - first:
+      213: 21300124
+    second: gumo
+  - first:
+      213: 21300126
+    second: shangcheng
+  - first:
+      213: 21300128
+    second: mingxing
+  - first:
+      213: 21300130
+    second: shenqi
+  - first:
+      213: 21300132
+    second: fuli
+  - first:
+      213: 21300134
+    second: duanzao
+  - first:
+      213: 21300136
+    second: juese
+  - first:
+      213: 21300138
+    second: richang
+  - first:
+      213: 21300140
+    second: xianmeng
+  - first:
+      213: 21300142
+    second: lilian
+  - first:
+      213: 21300144
+    second: qiyu
+  - first:
+      213: 21300146
+    second: info
+  - first:
+      213: 21300148
+    second: zhandou_shilian
+  - first:
+      213: 21300150
+    second: zhandou_putong
+  - first:
+      213: 21300152
+    second: ServerItemBack
+  - first:
+      213: 21300154
+    second: UI_City_Back_1_1
+  - first:
+      213: 21300156
+    second: UI_Icon_001
+  - first:
+      213: 21300158
+    second: UI_City_Back_1_source
+  - first:
+      213: 21300160
+    second: "UI_City_Public_111\u2014\u2014source"
+  - first:
+      213: 21300162
+    second: ReturnBack
+  - first:
+      213: 21300164
+    second: ReturnBack
+  - first:
+      213: 21300166
+    second: "\u7EA2\u5305"
+  - first:
+      213: 21300168
+    second: hp_slider
+  - first:
+      213: 21300170
+    second: hp_slider_red
+  - first:
+      213: 21300172
+    second: "\u5F15\u5BFC"
+  - first:
+      213: 21300174
+    second: UI_City_Public_88
+  - first:
+      213: 21300176
+    second: "\u8FD4\u56DE"
+  - first:
+      213: 21300178
+    second: circle
+  - first:
+      213: 21300180
+    second: renge_frame
+  - first:
+      213: 21300182
+    second: common_btn
+  - first:
+      213: 21300184
+    second: renge_frame_title
+  - first:
+      213: 21300186
+    second: common_btn2
+  - first:
+      213: 21300188
+    second: common_btn_back
+  - first:
+      213: 21300190
+    second: right-arrow
+  - first:
+      213: 21300192
+    second: renge_frame_back
+  - first:
+      213: 21300194
+    second: BigTip
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 4
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_City_Back_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 221
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83924ae3cc0d4522ac1414d4c9badc7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renge_frame_back
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97a6bfda38034baa816888c69b48b00
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renge_frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a880f474b3b4eb3a10057f9b3787a7
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffdf8fa336794d50bf022c87b2188bf
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e03c41d9d91450aae46dddaa7528e0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: common_btn_back
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559f0fef371c840e9a99f3374cc28c6b
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renge_frame_title
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d069cac24d8954ec7b9adfbc97de3fb5
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_27
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdd66c12dd344e89a07af2603bec5ee
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ac69e9f290c4f6c8e359f40ee76e58
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: common_btn2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba8d1f187d6442f6a8d3e97ad52b677
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Public_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e658ffa60b4ea3b034c1b492924c5
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: common_btn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115bbad91bd7145bea48702851648955
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right-arrow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceee6ae8d196454d94a714fdd6d5e59
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 126
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 50, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910254ef9a7f34538ae97f42557c729b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u5F15\u5BFC"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b702c374d124b33b0cc77beb8ab591
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_sig
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 869
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104eeca8400354aabb1c5ff544a2cb7c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u7EA2\u5305"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 743
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c166e93a5e4511a5038eee382ab5e
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_88
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 258
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2085ab004c8f545e581f7efb00a6ef93
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Back_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 360
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3647c9ac364924785b024813391f239c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_111
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 462
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7b57923f7e7448c86b2f5d44fdc8c5
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReturnBack
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 564
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e83b934b80374f6fb694e932cc18121
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_88
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 666
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18195dcc5092541108ff7671d257b547
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Back_1_source
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 768
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4cd34ab3049429eb2d72e7234a8a55
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_131
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 870
+        width: 226
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe6dc0ab05a47fb82daac3884cec70
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 916
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8829f3dd5dd874a2b80692dca9e1576b
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Icon_001
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 916
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b98ff6feeb4210b721347dfd6e54d
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Public_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 916
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feff805c65a7143379248294522257d5
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_108
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 258
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125abc0f0f1cd4099beff8d0846a78be
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ServerItemBack
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5bd54aaf1ae40ceb5e2b8a2b5d3985
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 349
+        width: 90
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eda1e22a8e45408d83fc4a034cb5343
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidifadong_img_yigoumai2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 438
+        width: 115
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027e200571be145749a4fe915f1f8fcb
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_80
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 505
+        width: 133
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179c3c5b9bc0a4ea1af4c17fffd8a8f6
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qq
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 557
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8be5bcb1906449328f223eeb68f085d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhanxing
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 557
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212d3c43abfaf48cab0ac5f586098265
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: info
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 666
+        width: 84
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3bce9bc0a294688b4d8e981bf8ed02
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beibao
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 638
+        width: 73
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfee3a2f80f946c1a3349c379e78c3d
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jingjie
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 715
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4425b06d8b1845a38796cd6c1b06f9d
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xianyuan
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 790
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbcc790d383a44329167acb0f0f4951
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gumo
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 715
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b7b1fcb74e541b3b4c307d67e98bbb
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenqi
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 790
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752476b0253e643ada94dc26719c5d57
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 790
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200b6b27d5f6451987c76b758ec5d5e
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xianmeng
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 865
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec17eb2aaac145a2a216a61bdc8f74d
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuli
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 940
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14c7c35cbd9d4ff9a77039d42eb25ff
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mingxing
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 220
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8b0cf26dace45f0b7ca56f4495678f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shangcheng
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 129
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce545fdf263154246b76b30697147343
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duanzao
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 295
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f34e85832bf748ca887e4a7d3beb89e
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richang
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 370
+        width: 64
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58092fe70bc142e8891be6c71b3c6fb
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Special_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 445
+        width: 50
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f40b2f8e8c54b6b87c653b8b04af86
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_dead_kuloutou
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 538
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4e125a813714f91996d302595bea5c
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilian
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 606
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b65f50077824f9986bfd6acd3a47ae
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qiyu
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 204
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0277caeb0fa48118a9dffbdf966315
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Special_0
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 129
+        width: 66
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f7e42c63beb46b4a4edb91f84e4228
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u8FD4\u56DE"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 269
+        width: 82
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a729c2c48a45858d5fec1dba195d8
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_135
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 315
+        width: 82
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68a90ad2b77e4ddd87b94b381d58460
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhandou_putong
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 190
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b51ca734be94a259b8ba07a506261b
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhandou_shilian
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 129
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c0ad674073e498f86cd45e4faee9bb
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_65
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 361
+        width: 55
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6585e302ca1942fbb7d5eedfc3d56ca
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Public_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 413
+        width: 55
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a57b0052bfe34a1da765ef68849cc39
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 143
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef87d8ba643434cabc529ad9326507
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Public_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 865
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecdfb07ca5d4400f8aa9b49be50f8f3
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 980
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebbd4deec56345aba79d85a43c6140d
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Public_52
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 638
+        width: 98
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 8, z: 20, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94b7b2866ba745b7953f44c0410f042
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 980
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e6e650038494811b5e648c72776629
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Public_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 98
+        width: 76
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 1, z: 30, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab55b5e847404383b307d5251939823
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_37
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 671
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccffeff6a727438cbe6f4e78c7da7ad
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_26
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 25
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3319ea8f8cd4e4c438bdc5ed68bf3b95
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigTip
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 220
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc123f3d766d347bb8644c7448f0634d
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp_slider_red
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 671
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3d0e1fec7b249969c50de0b4ccd38e
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp_slider
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 361
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366ed2d5ac5444c059883c54ae6cf223
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhujiemian_img_mubiao_star_01
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 462
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8d2dccdccff45f4b3ef41ce2636836
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_City_Public_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 220
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5b28d90be4240b0808584af8ecbc56
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhujiemian_img_mubiao_star_02
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 492
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a575fda7ccc4297ba78776d35e0cd5
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Public_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 118
+        width: 44
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 4, z: 20, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798c9b0603cea4ca2958abf560202153
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

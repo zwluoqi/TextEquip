@@ -1,0 +1,3 @@
+id	name	desc	extraEntrys
+1	测试		atk|11|1&&def|8|0.4&&hp_max|20|3&&hp_max_percent|0.11|0.11&&atk_percent|0.11|0.11&&def_percent|0.11|0.11&&treate_hp_speed|&&crit|0.08|1&&critdmg|0.2|1&&bloc|0.11|0.6&&
+random_recast	重铸		atk|11|1&&def|8|0.4&&hp_max|20|3&&hp_max_percent|0.11|0.11&&atk_percent|0.11|0.11&&def_percent|0.11|0.11&&treate_hp_speed|&&crit|0.08|1&&critdmg|0.2|1&&bloc|0.11|0.6&&

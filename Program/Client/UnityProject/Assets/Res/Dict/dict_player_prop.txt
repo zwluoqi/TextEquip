@@ -1,0 +1,12 @@
+classId	id	propName	icon	drop	detail	qulity	base_val	fromIds	server_cal
+1	coin	金币	coin	副本、		11	100000		1
+2	Guaranteedstone	保底石	Guaranteedstone	副本、		12	0		0
+3	Luckstone1	初级幸运石	Luckstone1	副本、		12	0		0
+4	Luckstone2	中级幸运石	Luckstone2	副本、		13	0		0
+5	Luckstone3	高级幸运石	Luckstone3	副本、		14	0		0
+6	wucai_suipian	五彩碎片	wucai_suipian	副本挑战	集齐5个五彩碎片可以换取一颗五彩石	13	0		0
+7	wucai_yello	电-五彩石	wucai_dian	商店兑换	电-五彩石,代表爱情	14	0		0
+8	wucai_green	火-五彩石	wucai_huo	商店兑换	火-五彩石代表自由	11	0		0
+9	wucai_blue	冰-五彩石	wucai_bing	商店兑换	冰-五彩石代表平等	12	0		0
+10	wucai_zise	岩-五彩石	wucai_yan	商店兑换	岩-五彩石代表权利	13	0		0
+11	wucai_white	风-五彩石	wucai_feng	商店兑换	风-五彩石,代表裁决	10	0		0

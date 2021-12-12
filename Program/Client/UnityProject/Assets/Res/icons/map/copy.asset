@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6c88e76926c9a64b92874e628e03a83, type: 3}
+  m_Name: copy
+  m_EditorClassIdentifier: 
+  m_Texture: {fileID: 2800000, guid: 0893ac4597a49d249a1d7ade6331ef74, type: 3}
+  m_Padding: 1
+  m_MaxSize: 4096
+  m_PackingMethod: 0
+  m_DefaultPivot: 0
+  m_DefaultCustomPivot: {x: 0.5, y: 0.5}
+  m_Sprites:
+  - source: {fileID: 21300000, guid: ef518237892684697a8615923be89739, type: 3}
+    targetSprite: {fileID: 8523161467319215878, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: f4b3e7fef75fe4d22b0c3cf1406a4740, type: 3}
+    targetSprite: {fileID: 847500199446634514, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: 334df5c7764ca4bc09be23141537a816, type: 3}
+    targetSprite: {fileID: 8058107434138793797, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: 334df5c7764ca4bc09be23141537a816, type: 3}
+    targetSprite: {fileID: 3286712339023741535, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: 410dc64cc7ca64af1afece640b30604b, type: 3}
+    targetSprite: {fileID: 7134262713009151242, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: 422197d549e4ec2469e50cd59ec21f8c, type: 3}
+    targetSprite: {fileID: 4621758800555062729, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: 239e7592ea8914f87987dd52b68eed7c, type: 3}
+    targetSprite: {fileID: -6789589073126414356, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: a2fd86bb00e64954690fad3c32c9676c, type: 3}
+    targetSprite: {fileID: 1357096566367519779, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: 65ff18bc6ff2345c387929cc1ea64564, type: 3}
+    targetSprite: {fileID: 3815574828573182357, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: f6d8a33f882b8481a8a7e37f515d1a51, type: 3}
+    targetSprite: {fileID: -255606140136795602, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: 5547a3a89548b49feb87d800f1415d82, type: 3}
+    targetSprite: {fileID: -1071570143824313558, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: b5785897282bd421ea979287be3d0b53, type: 3}
+    targetSprite: {fileID: -4955945494760186703, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: b8597cb003c774bdbaec7eaec2150f1e, type: 3}
+    targetSprite: {fileID: -4781603250666261761, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: b0b771bd141e44b71b0a00b18c7b1e35, type: 3}
+    targetSprite: {fileID: 6690426593897332557, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: 38d44febd1b16c441ba6c795ee0889ea, type: 3}
+    targetSprite: {fileID: 8275821790882011261, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  - source: {fileID: 21300000, guid: fe6a79bc8f32541f588f9d291ac07831, type: 3}
+    targetSprite: {fileID: -3535986364775613096, guid: 0893ac4597a49d249a1d7ade6331ef74,
+      type: 3}
+  m_PendingActions: []

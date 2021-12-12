@@ -1,0 +1,52 @@
+id	name	equip_type_int	equip_type	equip_sub_type	equip_icon	spe	desc	baseAbility
+weapon_1	创世亡命剑	0	weapon	sward	U_Sword01	1	只有被选中的勇士才能唤醒它真正的力量。	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_2	无名剑	0	weapon	sward	U_Sword02	1	没有人知道它的来历。	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_3	死亡之刃	0	weapon	saber	U_Sword04	1	万物生自守恒，源力破则失。	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_4	霜龙利刃	0	weapon	saber	U_Sword05	1	傲雪冷心绝，万念化冰华。	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_5	阿加雷斯血色巨剑	0	weapon	gun	U_Sword03	1	诚既勇兮又以武，终刚强兮不可凌。身既死兮神以灵，子魂魄兮为鬼雄。	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_6	神龙纳格林之刃	0	weapon	gun	U_Sword06	1	神龙纳格林的爪子锻造的利刃	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_7	大师大冒险家之剑	0	weapon	boxing	U_Sword07	1	大师大冒险家之剑	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_8	六翼天使武刃	0	weapon	boxing	U_Sword08	1	六翼天使武刃	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_9	数珠丸恒次	0	weapon	wand	U_Sword09	1	具体情况不明，传说为日莲上人所有	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_10	埃苏莱布斯军刀	0	weapon	bow	U_Sword10	1	埃苏莱布斯军刀	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|0.22|1.3&&bloc|&&
+weapon_41	狱岩石太刀	0	weapon	sward	W_Sword013	0	用狱岩石制作的太刀，据说拥有让使用者潜力爆发的神秘力量	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|&&bloc|&&
+weapon_42	战士长剑	0	weapon	sward	W_Sword014	0	六级战士使用的长剑	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|&&bloc|&&
+weapon_43	赤柳血刃	0	weapon	saber	W_Sword015	0	似乎会给使用者提供生命气息	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|&&bloc|&&
+weapon_44	普通长剑	0	weapon	saber	W_Sword016	0	朴实无华普通长剑，有的只有强力的攻击力	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|&&bloc|&&
+weapon_45	紫炎波刃剑	0	weapon	gun	W_Sword017	0	传说中的狂战士最喜爱的剑。	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.08|1.5&&critdmg|&&bloc|&&
+weapon_46	毛毛的爪子	0	weapon	gun	W_Sword018	0	这？这也是武器？	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+weapon_47	冰晶之刃	0	weapon	boxing	W_Sword019	0	剑锋覆盖着冰晶，碰到的敌人都会被冻住。	atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+weapon_48	九曲双镰	0	weapon	boxing	W_Sword020	0		atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+weapon_49	沫汐辟木	0	weapon	wand	W_Sword021	0		atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+weapon_50	破魂落日弓	0	weapon	bow	W_Sword022	0		atk|11|1.8&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+necklace_1	十字军项链	2	necklace		Ac_1	0		atk|11|1&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+necklace_2	冰龙凝雪	2	necklace		Ac_2	0		atk|11|1&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+necklace_3	银魂之眼	2	necklace		Ac_3	0		atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+necklace_4	银月之骑	2	necklace		Ac_4	0		atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+necklace_5	风月降临	2	necklace		Ac_5	0		atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+necklace_41	十字旅团降魔项链	2	necklace		U_neck01	1		atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+necklace_42	进阶黑暗龙王项链	2	necklace		U_neck02	1		atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+necklace_43	伟大单身成员的项链	2	necklace		U_neck03	1	真棒，真帅。有了这条帅气的项链，一辈子单身都不会孤独	atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+necklace_44	魔族之翼展	2	necklace		U_neck04	1	你能看到什么呢	atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+necklace_45	伊帕娅之项链	2	necklace		U_neck05	1		atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|0.22|1.3&&bloc|&&
+ring_1	生命指环	3	ring		Ac_9	0	据说拥有增强佩戴者体质的神秘功效	atk|11|1&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.11|0.5&&critdmg|&&bloc|&&
+ring_2	毛毛指环	3	ring		Ac_10	0	喵喵戒指，上面有没有摸到毛毛jio的怨念	atk|11|1&&def|&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.11|0.5&&critdmg|&&bloc|&&
+ring_3	御魂之戒	3	ring		Ac_11	0	出来吧，卡赞！吸纳所有彷徨的灵魂！ ——鬼剑士约翰	atk|11|1&&def|&&hp_max|11|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+ring_4	红色指环	3	ring		Ac_8	0		atk|11|1&&def|&&hp_max|11|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+ring_41	真·毛毛指环	3	ring		U_ring02	1		atk|11|1&&def|&&hp_max|11|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.11|0.5&&critdmg|&&bloc|&&
+ring_42	死神名片戒指	3	ring		U_ring03	1		atk|11|1&&def|&&hp_max|11|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.11|0.5&&critdmg|&&bloc|&&
+ring_43	先驱者戒指	3	ring		U_ring04	1		atk|11|1&&def|&&hp_max|11|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.11|0.5&&critdmg|&&bloc|&&
+ring_44	素盏呜尊的意志	3	ring		U_ring05	1		atk|11|1&&def|&&hp_max|11|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.11|0.5&&critdmg|&&bloc|&&
+ring_45	月夜见尊的意志	3	ring		U_ring05	1		atk|11|1&&def|&&hp_max|11|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|0.11|0.5&&critdmg|&&bloc|&&
+dress_1	紫金守护胸甲	1	dress		A_A2	0	够肉才能输出	atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_2	战士重铠	1	dress		A_A3	0	六级战士使用的重型铠甲	atk|11|1&&def|11|0.8&&hp_max|&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_3	天权轻甲	1	dress		A_A4	0	舍弃了防御性能的轻甲，因为更加轻便，攻击性能更加突出	atk|11|1&&def|&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_4	赤柳血铠	1	dress		A_A5	0	似乎会给使用者提供生命气息	atk|11|1&&def|&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_5	哈皮毛毛连身衣	1	dress		A_A6	0	似乎会给使用者提供生命气息	atk|11|1&&def|&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_41	红月的夜行衣	1	dress		U_Armor06	1		atk|11|1&&def|11|0.8&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_42	肃清者戎衣	1	dress		U_Armor07	1	相传看到这一袭黑衣的人都死了。	atk|11|1&&def|11|0.8&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_43	争执连身衣	1	dress		U_Armor08	1		atk|11|1&&def|11|0.8&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_44	剑豪盔甲	1	dress		U_Armor09	1		atk|11|1&&def|11|0.8&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_45	隐武士铠甲	1	dress		U_Armor07	1	相传看到这一袭黑衣的人都死了。	atk|11|1&&def|11|0.8&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_46	芬撒里尔追踪者	1	dress		U_Armor08	1		atk|11|1&&def|11|0.8&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&
+dress_47	先代狂龙战士盔甲	1	dress		U_Armor09	1		atk|11|1&&def|11|0.8&&hp_max|20|0.8&&hp_max_percent|&&atk_percent|&&def_percent|&&treate_hp_speed|&&crit|&&critdmg|&&bloc|&&

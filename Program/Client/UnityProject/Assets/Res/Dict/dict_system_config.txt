@@ -1,0 +1,2 @@
+id	val	vals	float_val	int_val
+init_equip		weapon_1&&dress_1&&necklace_1&&ring_1	0	0

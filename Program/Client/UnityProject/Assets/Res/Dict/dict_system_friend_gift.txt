@@ -1,0 +1,3 @@
+id	class_id	prop_id	obj_id	obj_num
+0	player	ruby		5
+1	player	coin		50000
